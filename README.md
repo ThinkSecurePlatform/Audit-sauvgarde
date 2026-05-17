@@ -177,4 +177,4 @@ MIT License — voir le fichier LICENSE pour les détails.
 
 ## Avertissement
 
-Cet outil est fourni à titre indicatif et pédagogique. Les résultats générés ne constituent pas un audit de sécurité officiel ni une certification. Les recommandations s'appuient sur les publications publiques de l'ANSSI disponibles sur [](https://messervices.cyber.gouv.fr/documents-guides/anssi_fondamentaux_sauvegarde_systemes_dinformation_v1.1.pdf).
+Cet outil est fourni à titre indicatif et pédagogique. Les résultats générés ne constituent pas un audit de sécurité officiel ni une certification. Les recommandations s'appuient sur les publications publiques de l'ANSSI disponibles sur [messervices.cyber.gouv.fr](https://messervices.cyber.gouv.fr/documents-guides/anssi_fondamentaux_sauvegarde_systemes_dinformation_v1.1.pdf).
