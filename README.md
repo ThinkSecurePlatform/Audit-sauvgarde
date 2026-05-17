@@ -1,6 +1,6 @@
 # Audit Sauvegarde SI — ANSSI-BP-100
 
-**Outil d'audit de sauvegarde des Systèmes d'Information — standalone, sans dépendance, 100% navigateur**
+**Outil d'audit de sauvegarde des Systèmes d'Information standalone, sans dépendance, 100% navigateur**
 
 Un fichier HTML autonome complet pour conduire des audits de politique de sauvegarde selon les recommandations de l'ANSSI (Bonnes Pratiques BP-100 v1.1), couvrant 27 critères répartis en 5 domaines critiques.
 
