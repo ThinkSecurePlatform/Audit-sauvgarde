@@ -10,7 +10,7 @@ Un fichier HTML autonome complet pour conduire des audits de politique de sauveg
 
 ## Aperçu
 
-L'outil guide l'auditeur à travers les 5 domaines de la ANSSI-BP-100 référentiel sur les Sauvegarde des systèmes d’information, affiche en temps réel les scores de conformité, propose des actions de remédiation contextuelles, puis génère automatiquement un **rapport PDF** et un **suivi Excel** exportables.
+L'outil guide l'auditeur à travers les 5 domaines du référentiel ANSSI-BP-100 relatif à la sauvegarde des systèmes d'information, il affiche en temps réel les scores de conformité, propose des actions de remédiation contextuelles, puis génère automatiquement un **rapport PDF** et un **suivi Excel** exportables.
 
 <table>
   <tr>
